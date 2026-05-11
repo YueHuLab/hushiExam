@@ -1,0 +1,145 @@
+
+
+---
+
+**服务条款**
+
+**最后更新日期：2026年5月2日**
+
+**1. 接受条款**
+下载、安装或使用《初级护师考试题库2026》（以下简称“本应用”）即表示您同意受本服务条款的约束。
+
+**2. 应用许可**
+我们授予您有限的、非排他性的、不可转让的许可，允许您在您拥有或控制的 iOS 设备上使用本应用，仅用于个人非商业用途。
+
+**3. 用户账户**
+
+*   您不需要创建账户即可使用本应用。
+*   刷题记录、错题本及学习设置存储在您的设备本地。
+*   您可以随时删除应用以清除所有数据。
+
+**4. 应用功能**
+
+*基础功能：*
+
+*   基础题库刷题与模拟练习
+*   错题本自动归档与复习
+*   基础模拟考试与成绩记录
+*   完全离线运行，无需联网
+
+*高级版功能（一次性买断解锁）：*
+
+*   解锁全部题库（包括基础知识、相关专业知识、专业知识、专业实践能力）、押题卷与专项训练
+*   高级错题分析与个性化学习报告
+*   本地数据加密与安全存储
+*   无广告纯净使用体验
+
+**5. 购买与付款**
+**5.1 购买模式**
+本应用采用一次性买断制，无订阅周期、无自动续费、无隐藏收费。完成购买后，您将在当前设备永久解锁高级版全部功能。
+
+**5.2 交易处理**
+所有内购均通过 Apple App Store 安全通道完成。我们仅集成必要的支付验证工具（如 RevenueCat SDK）以核对 Apple 提供的匿名购买收据，不收集、不存储任何您的身份或支付信息。
+
+**6. 知识产权**
+本应用及其内容（包括但不限于题库数据、界面设计、文字解析、图标与排版）的知识产权归我们所有。未经我们书面许可，您不得复制、修改、分发或创建衍生作品。
+
+**7. 免责声明**
+
+*   本应用仅供初级护师资格考试备考学习与参考使用。
+*   题库内容基于公开考试大纲与行业规范整理，我们不保证所有题目与官方考试完全一致或绝对准确。
+*   实际考试结果以官方公布为准，本应用不构成任何官方认证、资格担保或就业承诺。
+*   应用按“现状”提供，不提供任何明示或暗示的保证。
+
+**8. 责任限制**
+在法律允许的最大范围内，我们对因使用本应用而产生的任何间接、偶然、特殊或后果性损害（包括但不限于考试失利、备考时间损失或数据误操作）不承担责任。
+
+**9. 第三方链接**
+本应用可能包含指向第三方网站或服务的链接。我们不对这些第三方网站或服务的内容、隐私政策或行为负责。
+
+**10. 隐私**
+您的隐私对我们很重要。本应用为离线优先设计，不收集、不上传任何个人身份数据。请参阅我们的隐私政策了解我们如何收集和使用您的信息。
+
+**11. 条款变更**
+我们保留随时修改本服务条款的权利。重大变更时，我们会通过应用内通知告知您。继续使用本应用即表示您接受修改后的条款。
+
+**12. 终止**
+我们保留在以下情况下终止您使用本应用的权利：
+
+*   您违反本服务条款
+*   我们收到 Apple 或监管机构的要求
+*   法律要求
+
+感谢您使用《初级护师考试题库2026》！
+
+---
+
+**Terms of Service**
+
+**Last Updated: May 2, 2026**
+
+**1. Acceptance of Terms**
+By downloading, installing, or using the Junior Nurse Exam Question Bank 2026 (hereinafter referred to as "the App"), you agree to be bound by these Terms of Service.
+
+**2. Application License**
+We grant you a limited, non-exclusive, non-transferable license to use the App on iOS devices that you own or control, solely for personal, non-commercial purposes.
+
+**3. User Accounts**
+
+*   Creating an account is not required to use the App.
+*   Practice records, error logs, and learning settings are stored locally on your device.
+*   You can delete the App at any time to clear all associated data.
+
+**4. Application Features**
+
+*Standard Features:*
+
+*   Core question bank practice and mock exams
+*   Automatic error log archiving and review
+*   Basic mock exam mode and score tracking
+*   Fully offline operation; no internet connection required
+
+*Premium Features (Unlocked via One-Time Purchase):*
+
+*   Full access to all question banks (including Basic Knowledge, Related Professional Knowledge, Professional Knowledge, and Professional Practice Capabilities), prediction papers, and targeted training modules
+*   Advanced error analysis and personalized learning reports
+*   Local data encryption and secure storage
+*   Ad-free, clean usage experience
+
+**5. Purchases & Payments**
+**5.1 Purchase Model**
+The App operates on a one-time purchase model with no subscription cycles, no auto-renewal, and no hidden fees. Upon completion of purchase, you will permanently unlock all Premium features on the current device.
+
+**5.2 Transaction Processing**
+All in-app purchases are processed securely through the Apple App Store. We only integrate necessary payment verification tools (e.g., RevenueCat SDK) to validate anonymous purchase receipts provided by Apple. We do not collect or store any of your personal identity or payment information.
+
+**6. Intellectual Property**
+All intellectual property rights in and to the App and its content (including but not limited to question bank data, interface design, textual explanations, icons, and layout) are owned by us. You may not copy, modify, distribute, or create derivative works without our prior written consent.
+
+**7. Disclaimer**
+
+*   The App is provided solely for the purpose of junior nurse qualification exam preparation and reference.
+*   The question bank content is compiled based on publicly available exam syllabi and industry standards. We do not guarantee that all questions will exactly match official exams or be absolutely accurate.
+*   Actual exam results are subject to official publication. The App does not constitute any official certification, qualification guarantee, or employment commitment.
+*   The App is provided "as is" without any express or implied warranties.
+
+**8. Limitation of Liability**
+To the fullest extent permitted by law, we shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the App (including but not limited to exam failures, loss of study time, or data misoperation).
+
+**9. Third-Party Links**
+The App may contain links to third-party websites or services. We are not responsible for the content, privacy policies, or practices of these third-party websites or services.
+
+**10. Privacy**
+Your privacy is important to us. The App is designed with an offline-first approach and does not collect or upload any personal identity data. Please refer to our Privacy Policy for details on how we handle your information.
+
+**11. Changes to Terms**
+We reserve the right to modify these Terms of Service at any time. In the event of material changes, we will notify you via in-app announcements. Your continued use of the App constitutes acceptance of the revised Terms.
+
+**12. Termination**
+We reserve the right to terminate your access to the App under the following circumstances:
+
+*   You violate these Terms of Service;
+*   We receive requests from Apple or regulatory authorities;
+*   Legal requirements dictate.
+
+Thank you for using Junior Nurse Exam Question Bank 2026!
